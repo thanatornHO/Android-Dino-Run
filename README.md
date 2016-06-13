@@ -1,4 +1,4 @@
-# Android-Dino-Run
+# Android Game : Dino run ( Dinosaur )
 Android Game : Dino run (Dinosaur) - On Google Play
 
 Dinosaur run (Dino run) is a simple game for all people makes fun,
